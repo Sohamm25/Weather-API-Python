@@ -1,4 +1,4 @@
-# Weather Data Collector
+# Weather API Python
 
 This Python script collects weather data for multiple cities using the OpenWeatherMap API and stores it in a DataFrame. Users can input the city name and select which weather data parameters they want to include in the DataFrame.
 
